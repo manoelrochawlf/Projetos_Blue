@@ -4,7 +4,7 @@ var prompt = require('prompt-sync')();
 
 let contglobal = 0;
 while(contglobal < 1) {
-    console.log("~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~"); //Botei os 2 tios para dar a sensação de ondas.
+    console.log("~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~ ~~"); //Botei os 2 tils para dar a sensação de ondas.
     console.log(`ERA UMA VEZ.....
 UM PIRATA CHAMADO WILLY, ELE DESBRAVOU OS SETE MARES E LUTOU CONTRA OS MONTROS MAIS PERIGOSOS E TEMIDOS DE TODO O OCEANO. ASSIM WILLY SE TORNOU LENDÁRIO, CAUSANDO TEMOR APENAS SOB O TREMULAR DE SUA BANDEIRA E O ECOAR DE SUA VOZ.`);
     console.log();
@@ -137,7 +137,7 @@ console.log();
     console.log("X~~O~X~O~~X");
     console.log();
     if(yes == 0){
-    console.log("VOCÊ NÃO É DIGNO DE SER UM PIRATA!.");
+    console.log("VOCÊ NÃO É DIGNO DE SER UM PIRATA!");
  }
     else if (yes == 1) {
     console.log("Que piratinha mais meia boca em...");
