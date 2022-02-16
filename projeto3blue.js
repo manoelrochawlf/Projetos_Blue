@@ -249,7 +249,7 @@ console.log(`
  - UMA PACIENTE COM ESQUIZOFRENIA SEVERA FUGIU, VOCÊ PRECISA RECOLHER PISTAS E DESCOBRIR SEU PARADEIRO.
 .........................................................`)
 
-while(status.saudePersonagem > 0 && contRepet == 0) {
+while(contRepet == 0) {
 
     console.log(`
 Você chegou ao Santa Bárbara, seu companheiro William está ao seu lado.
